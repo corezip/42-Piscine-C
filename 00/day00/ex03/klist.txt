@@ -1,0 +1,7 @@
+Credentials cache: API:21254
+        Principal: gsolis@42.US.ORG
+
+          Issued                Expires               Principal
+          Oct 25 23:06:38 2016  Oct 26 09:06:38 2016  krbtgt/42.US.ORG@42.US.ORG
+          Oct 25 23:06:40 2016  Oct 26 09:06:38 2016  ldap/ldap-proxy.42.us.org@42.US.ORG
+          Oct 25 23:11:59 2016  Oct 26 09:06:38 2016  host/vgs-fn1.42.us.org@42.US.ORG

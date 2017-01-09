@@ -1,0 +1,7 @@
+dn: uid=gsolis,ou=august,ou=2016,ou=people,dc=42,dc=us,dc=org
+changetype: modify
+replace: mobile
+mobile: +5215544843991
+-
+replace: mail
+mail: corezip10@gamil.com
